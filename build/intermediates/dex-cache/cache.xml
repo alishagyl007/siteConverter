@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\479fec2a7847b0ff98c49ac1b755df1fae9e44c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_78123b67c9d9cf9f7185d900c9a27e16979a08ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\ca0b8e54277ed492f5571ad50f189d09befeff51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_2c9943eb1afeef96ae8d9942e493204e6d1c0446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\c79b6385228d461c650e1b07a5cca01c759e15f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_3e888fefef769ca471cfdfa1f706683a251539b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\8e1246cf6bbc5516ea3b0abdd14a5070eef4b377\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_a676752b694bb9360ebfef6ce874222d4e71411a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_00906125c71e8f64dc260a29be487395a2999649\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\0cf0b903e45b60573ada60948290a0ec5362cd4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_0a465d5ca795b8a07fc081d8762cfd6538271663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\81cdc343c658f15248e3f1277020199199389949\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_8f67889e17643d65a704bec2df28f0ea37ddbef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\ab75e05f9f893cca8eb984504f22bcfb7be84555\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_78be8521812aebb552905f0dc847f447c353fe91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\947d1279f47650764ee09130d523ae1cd222e062\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_631eadbbd00de4ace178a56a8facb2a9791d2339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\0bcbf591cec5ec02e3461bf5cacb5bd4d2075114\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_521593b091ef84a8a6d5423ef799f20a4fc12e70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_10b2267cb4d0eb7f0ffad9ea7608429653c10247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioSDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_33201d28b15096d1ea341606c17416c925b8a1d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bc\.android\build-cache\ca6236626c1c455c1b403dafeda196a2dfc352ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\pre-dexed\debug\classes_48259a11af83c2496cd6e6212c19f1ca52b79419.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="35ddaecd44cf4f82fae23edf006b58f64c5ebd7e">
+        <dex dex="D:\AndroidStudioProject\SiteMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d604827f9226f7433874c5d3fe58e8ebd8d3436b\classes.dex" />
+    </item>
+
+</items>
